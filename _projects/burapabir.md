@@ -4,7 +4,6 @@ title: Typological study of projective contents in Bura-Pabir
 description: 2026- | w/ Dr. Julian Grove & Yakubu Bitrus
 img: ![A table showing the pronominal system of Bura-Pabir] assets/img/13.jpg
 redirect:
-importance: 2
 category: Current
 --- 
 
