@@ -1,8 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2026-07-10 7:59:00-0400
 inline: true
 related_posts: false
 ---
-
-A simple inline announcement.
+Pleased to announce a new prepint on OSF for an ongoing project entitled ["Task effects on predictive eye-movements."](https://osf.io/preprints/psyarxiv/f2a9x_v1) Questions, comments, or ventilations of opprobrium can be directed to myself (jsingleton2@ufl.edu) or my coauthor & corresponding contact Dr. Edith Kaan (kaan@ufl.edu).
