@@ -7,7 +7,6 @@ img: assets/img/12.jpg
 redirect:
 importance: 2
 category: Current
-related_publications: true
 ---
 
 # Abstract
