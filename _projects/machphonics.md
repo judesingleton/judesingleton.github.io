@@ -4,8 +4,7 @@ title: "Mach Phonics": Problematizing Narratives Of Authenticity Through A Haiti
 description: 2024-5 | w/ Dr. Emily Rine Butler
 img: assets/img/15.jpg
 redirect:
-importance: 2
-category: Current
+category: Complete
 --- 
 
 # Abstract
