@@ -2,8 +2,8 @@
 layout: page
 layout: page
 title: Task effects on predictive eye-movements 
-description: 2023-6
-img: assets/img/12.jpg
+description: 2023-6 | w/ Claire Kuntz, Hannah G. Treadway, Jorge Valdés Kroff, Theres Grüter, & Edith Kaan
+img: ![Graph displaying fixation probability and onset data Experiments One and Two across three plots]assets/img/12.jpg
 redirect:
 importance: 2
 category: Current
