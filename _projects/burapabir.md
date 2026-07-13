@@ -6,7 +6,6 @@ img: assets/img/13.jpg
 redirect:
 importance: 2
 category: Current
-related_publications: true
 --- 
 
 
