@@ -1,6 +1,6 @@
 ---
 layout: page 
-title: Reanimating African American Oral Histories of the Gulf South. 
+title: Reanimating African American oral histories of the Gulf South. 
 description: 2024-6 | w/ Jessica Heady & Dr. Sara Moeller 
 img: assets/img/16.jpg
 importance: 1
