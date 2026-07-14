@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: **predictive processing** | **cross-dialectal variation** | **bilingualism**
+subtitle: predictive processing | cross-dialectal variation | bilingualism
 
 profile:
   align: right
