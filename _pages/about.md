@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: predictive processing | cross-dialectal variation | bilingualism
+subtitle: **predictive processing** | **cross-dialectal variation** | **bilingualism**
 
 profile:
   align: right
@@ -27,3 +27,9 @@ latest_posts:
 I am a linguistics researcher at the [University of Florida](https://lin.ufl.edu/) where I manage the [Brain, Language, and Bilingualism Lab](https://blab.lin.ufl.edu/). Previously, I obtained my Master's in Linguistics from UF under the advisorship of Dr. Edith Kaan. Prior to this, I double-majored in my undergrad in Linguistics and English at UF. 
 
 Throughout both my undergrad and grad years and into my current role, I have focused on explicating predictive and bilingual processing via psycholinguistic experimental modalities such as EEG and eye-tracking. I am particuarly interested in clarifying the automaticity, pervasiveness, and homogenity of prediction as a language-specific and cognition-general tool for comprehension, especially as these dimensions relate to diverse language profiles and backgrounds. 
+
+Outside of research, I am passionate about American maximalist fiction, the filmographies of David Lynch and Béla Tarr, and Rainer Maria Rilke. 
+**Current reads**: Schattenfroh {Michael Lentz} | Tests of Time {William H. Gass} | Looking Ahead: The new science of the predictive mind {Falk Huettig}
+**Current listens**: *Benji* {Sun Kil Moon}
+**Recent Watches**: "The Century of the Self" {Adam Curtis}
+
