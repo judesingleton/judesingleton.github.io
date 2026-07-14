@@ -33,7 +33,7 @@ disinterest in satisfying authenticating norms of language performance.
 
 View my [undergraduate honors thesis](https://ufdc.ufl.edu/AA00114650/00001/pdf), which received university honors (*summa cum laude*)
 
-# References & Helpful Resources
+# References & Helpful Materials
 
 Blommaert, J., & Varis, P. (2013). Enough is enough: The heuristics of authenticity in
 superdiversity. In J. Duarte & I. Gogolin (Eds.), Hamburg Studies on Linguistic
