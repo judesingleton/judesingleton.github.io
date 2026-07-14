@@ -1,9 +1,9 @@
 ---
 layout: page 
-title: Mach Phonics: Problematizing Narratives Of Authenticity Through A Haitian-American Hip Hop Performance
+title: Mach Phonics: Problematizing narratives of authenticity through a Haitian-American Hip Hop performance
 description: 2024-5 | w/ Dr. Emily Rine Butler
 img: assets/img/15.jpg
-redirect:
+importance: 2
 category: Complete
 --- 
 
@@ -29,11 +29,11 @@ sociolinguistics’ assumptions about authenticity as a salient dimension of dis
 use of codes associated with communities to whom he makes no claim of belonging suggests a
 disinterest in satisfying authenticating norms of language performance.
 
-External Links 
+# External Links 
 
 View my [undergraduate honors thesis](https://ufdc.ufl.edu/AA00114650/00001/pdf), which received university honors (*summa cum laude*)
 
-References & Helpful Resources
+# References & Helpful Resources
 
 Blommaert, J., & Varis, P. (2013). Enough is enough: The heuristics of authenticity in
 superdiversity. In J. Duarte & I. Gogolin (Eds.), Hamburg Studies on Linguistic
@@ -58,7 +58,7 @@ Spread of Authenticity. Journal of Language, Identity & Education, 6(2), 101–1
 https://doi.org/10.1080/15348450701341246
 
 
-<b>For more on Mach-Hommy<b>:
+For more on Mach-Hommy:
 
 Gee, A. (2022, October 13). Don’t Call Mach-Hommy ‘Reclusive.’ Rolling Stone.
 https://www.rollingstone.com/music/music-features/mach-hommy-interview-new-albu
