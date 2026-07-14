@@ -11,10 +11,10 @@ category: Completed
 Following his 2016 debut in the underground Hip Hop scene with the release of
 “H.B.O.,” Haitian-American rapper Mach-Hommy has established his niche in the Hip Hop
 (HH) Nation. Part of what sets Mach-Hommy apart from his contemporaries is his multilingual
-style/: switching between AAE, Haitian and Jamaican Creoles, Spanish, and French, Mach's raps
+style: switching between AAE, Haitian and Jamaican Creoles, Spanish, and French, Mach's raps
 are characterized by multilingual code-switching practices. While the use of multiple languages
 in HH is not new (Mitchell, 2001; Pennycook, 2006, 2007), Mach-Hommy's music provides a
-rich locus within which to examine the following questions/: to what extent to do the
+rich locus within which to examine the following questions: to what extent to do the
 code-switching practices in HH align with understandings of conversational code-switching data
 and how might we see HH's artistic code-switches as theoretically similar to conversational
 code-switching?; and, how is identity, especially a multilingual one, indexed by the use of these
