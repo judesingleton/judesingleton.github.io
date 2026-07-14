@@ -4,7 +4,7 @@ title: Mach Phonics: Problematizing narratives of authenticity through a Haitian
 description: 2024-5 | w/ Dr. Emily Rine Butler
 img: assets/img/15.jpg
 importance: 2
-category: Complete
+category: Completed
 --- 
 
 # Abstract
