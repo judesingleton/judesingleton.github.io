@@ -14,7 +14,7 @@ Research on predictive processing has shown that listeners anticipate upcoming l
 
 # Current Status
 
-We have submitted our draft manuscript to <Language, Cognition, and Neuroscience> and await editorial acceptance followed by peer review!
+We have submitted our draft manuscript to <i>Language, Cognition, and Neuroscience<i> and await editorial acceptance followed by peer review!
 
 # External Links
 
