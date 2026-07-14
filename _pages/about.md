@@ -30,6 +30,8 @@ Throughout both my undergrad and grad years and into my current role, I have foc
 
 Outside of research, I am passionate about American maximalist fiction, the filmographies of David Lynch and Béla Tarr, and Rainer Maria Rilke. 
 **Current reads**: Schattenfroh - Michael Lentz | Tests of Time - William H. Gass | Looking Ahead: The new science of the predictive mind -Falk Huettig
+
 **Current listens**: *Benji* - Sun Kil Moon
+
 **Recent Watches**: "The Century of the Self" *dir.* Adam Curtis
 
