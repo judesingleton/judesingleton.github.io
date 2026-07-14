@@ -1,6 +1,6 @@
 ---
 layout: page 
-title: Mach Phonics: Problematizing narratives of authenticity through a Haitian-American Hip Hop performance
+title: Mach Phonics, or Problematizing narratives of authenticity through a Haitian-American Hip Hop performance
 description: 2024-5 | w/ Dr. Emily Rine Butler
 img: assets/img/15.jpg
 category: Completed
