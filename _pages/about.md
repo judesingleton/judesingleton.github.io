@@ -28,6 +28,6 @@ I am a linguistics researcher at the [University of Florida](https://lin.ufl.edu
 
 Throughout both my undergrad and grad years and into my current role, I have focused on explicating predictive and bilingual processing via psycholinguistic experimental modalities such as EEG and eye-tracking. I am particuarly interested in clarifying the automaticity, pervasiveness, and homogenity of prediction as a language-specific and cognition-general tool for comprehension, especially as these dimensions relate to diverse language profiles and backgrounds. 
 
-Outside of research, I am passionate about American maximalist fiction, the filmographies of David Lynch and Béla Tarr, Rainer Maria Rilke, and the music of *Swans* and *Sun Kil Moon*.
+Outside of research, I am passionate about American maximalist fiction, the filmographies of David Lynch and Béla Tarr, Rainer Maria Rilke, and the music of Swans and Sun Kil Moon.
 
 
