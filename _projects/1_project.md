@@ -10,11 +10,11 @@ category: Current
 
 # Abstract
 
-Research on predictive processing has shown that listeners anticipate upcoming linguistic information using linguistic cues, such as verb meaning. Beyond information in the input, listeners’ prediction can also be influenced by top-down control, such as goals and strategies developed in response to a given task. However, it is unclear to what extent evaluations of task relevance modulate top-down control of prediction. We present evidence from two eye-tracking studies in the Visual World Paradigm that associative predictions are automatic and not influenced by implicit shifts in task relevance. However, when task relevance is made explicit in the form of an instruction to predict, prediction is upregulated irrespective of the verb and moreover initiated earlier, likely due to an enhancement of predictive visual search. Task relevance is thus modulatory for associative prediction when it is specified for listeners.
+Research on predictive processing has shown that listeners anticipate upcoming linguistic information using linguistic cues, such as verb meaning. Beyond information in the input, listeners’ prediction can also be influenced by top-down control, such as goals and strategies developed in response to a given task. However, it is unclear to what extent evaluations of task relevance modulate top-down control of prediction. We present evidence from two eye-tracking studies in the Visual World Paradigm that associative predictions are automatic and not influenced by implicit shifts in task relevance. However, when task relevance is made explicit in the form of an instruction to predict, prediction is upregulated irrespective of the verb and moreover initiated earlier, likely due to an enhancement of predictive visual search. **Task relevance is thus modulatory for associative prediction when it is specified for listeners.**
 
 # Current Status
 
-We have submitted our draft manuscript to Language, Cognition, and Neuroscience and await editorial acceptance followed by peer review!
+We have submitted our draft manuscript to *Language, Cognition, and Neuroscience* and await editorial acceptance followed by peer review!
 
 # External Links
 
