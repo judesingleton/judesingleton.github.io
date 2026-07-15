@@ -2,7 +2,7 @@
 layout: page
 layout: page
 title: Task effects on predictive eye-movements 
-description: 2023-6 | w/ Claire Kuntz, Hannah G. Treadway, Dr. Jorge Valdés Kroff, Dr. Theres Grüter, & Dr. Edith Kaan
+description: 2023- | w/ Claire Kuntz, Hannah G. Treadway, Dr. Jorge Valdés Kroff, Dr. Theres Grüter, & Dr. Edith Kaan
 img: assets/img/12.jpg
 importance: 2
 category: Current
