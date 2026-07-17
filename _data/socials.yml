@@ -47,6 +47,6 @@ osf_id: z4avj # your OSF ID
 # youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 # zotero_username: # your zotero username
 custom_social: # can be any name here other than the ones already defined above
-  logo: assets/img/bluesky-brands.svg # can be png, svg, jpg
+  logo: assets/img/bluesky_media_kit_logo_3.png # can be png, svg, jpg
   title: Bluesky
   url: https://bsky.app/profile/rhizometanoia.bsky.social
