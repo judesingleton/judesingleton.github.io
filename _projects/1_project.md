@@ -22,4 +22,4 @@ Our draft manuscript has been editorially accepted to *Language, Cognition, and 
 
 # External Links
 
-View this project's [preregistration, open-source materials, and analysis pipelines](https://osf.io/63xr2/overview). For past presentational material (and a humbling vista over how our thinking has changed throughout this project), see [here](https://osf.io/63xr2/files/osfstorage). To read the first draft of our manuscript (*currently in press*), see our upload to [PsyArXiv via OSF](https://osf.io/preprints/psyarxiv/f2a9x_v1). 
+View this project's [preregistration, open-source materials, and analysis pipelines](https://osf.io/63xr2/overview). For past presentational material (and a humbling vista over how our thinking has changed throughout this project), see [here](https://osf.io/63xr2/files/osfstorage). To read the first draft of our manuscript (*currently in prep*), see our upload to [PsyArXiv via OSF](https://osf.io/preprints/psyarxiv/f2a9x_v1). 
