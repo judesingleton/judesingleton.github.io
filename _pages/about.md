@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: prediction | cross-lectal processing | ambient exposure
+subtitle: prediction | cross-lectal processing | experience & exposure
 
 profile:
   align: right
