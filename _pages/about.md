@@ -34,6 +34,8 @@ My research primarily moves between and interacts with three broad questions I h
 
 3). **How pervasive, automatic, and homogeneous is prediction during language processing?** To what extent do task effects and design choices, including the context of study, influence indices of online processing? How might predictive processing be scaffolded by offline features? 
 
+Some conceptually non-orthogonal research I have been involved with includes: fieldwork with contextual felicity constraints in Bura, a Chadic language; corpus research on adjective and binomial ordering preferences cross-linguistically in children and adults; and, the use of codeswitching in multilingual Haitian-American Hip Hop as a strategy to negotiate the terms of so-called linguistic authenticity.   
+
 Feel free to explore my [Projects](_projects) to see how I have engaged with these questions thus far!
 
 Outside of research, I am passionate about American maximalist fiction, the filmographies of David Lynch and Béla Tarr, Rainer Maria Rilke, and the music of Swans and Sun Kil Moon.
