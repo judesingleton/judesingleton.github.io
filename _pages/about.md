@@ -34,6 +34,6 @@ My research primarily moves between and interacts with three broad questions I h
 
 3). **How pervasive, automatic, and homogenous is prediction during language processing?** To what extent do task effects and design choices, including the context of study, influence indices of online processing? How might predictive processing be scaffolded by offline features? 
 
-Feel free to explore my /projects/ to see how I have engaged with these questions thus far!
+Feel free to explore my /_projects/ to see how I have engaged with these questions thus far!
 
 Outside of research, I am passionate about American maximalist fiction, the filmographies of David Lynch and Béla Tarr, Rainer Maria Rilke, and the music of Swans and Sun Kil Moon.
