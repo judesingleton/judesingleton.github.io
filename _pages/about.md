@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: predictive processing | cross-dialectal variation | bilingualism
+subtitle: prediction | cross-lectal processing | ambient exposure
 
 profile:
   align: right
