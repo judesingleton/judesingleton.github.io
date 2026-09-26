@@ -17,7 +17,7 @@ Based on previously collected FLEx data and a series of elicitation sessions wit
 
 # External Links
 
-View our [preliminary work on Bura-Pabir](assets/pdf/bura_pabir_projection.pdf), submitted in partial fulfillment of course requirements for LIN6826: Pragmatics. See also an early sketch of the [tense, aspect, and mood system of Bura-Pabir](assets/pdf/Bura_TAM.pdf), submitted in partial fulfillment of LIN6165: Field Methods.
+View our [preliminary work on Bura-Pabir](/assets/pdf/bura_pabir_projection.pdf/), submitted in partial fulfillment of course requirements for LIN6826: Pragmatics. See also an early sketch of the [tense, aspect, and mood system of Bura-Pabir](/assets/pdf/Bura_TAM.pdf/), submitted in partial fulfillment of LIN6165: Field Methods.
 
 # References & Helpful Materials
 
