@@ -1,3 +1,4 @@
+---
 layout: page 
 title: Typological study of projective contents in Bura-Pabir 
 description: 2026- | w/ Dr. Julian Grove & Yakubu Bitrus
