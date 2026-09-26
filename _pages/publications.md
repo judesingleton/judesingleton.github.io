@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: This is page is continually updated.
+description: This page is continually updated.
 nav: true
 nav_order: 5
 ---
