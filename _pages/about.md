@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: prediction | cross-lectal processing | experience & exposure
+subtitle: prediction | cross-lectal processing | cognition in context
 
 profile:
   align: right
