@@ -15,7 +15,7 @@ Our work at UF is done in collaboration with [Dr. Jonathan Brennan](https://lsa.
 
 # Current Status 
 
-We are in the midst of data collection at UF and are currently working to develop materials for use at the University of Granada. 
+We are in the midst of data collection at UF. Our peers at the University of Granada are working to put the finishing touches on their materials and set-up before beginning data collection.
 
 # Funding
 
