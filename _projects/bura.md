@@ -9,7 +9,7 @@ category: Current
 
 # Abstract
 
-**Bura-Pabir (bwr)** is a Chadic language spoken by around 551,000 speakers, primarily identifying as Bura-Pabir, in Northeastern Nigeria (Eberhard et al., 2025). Bura-Pabir has traditionally been analyzed for its morphosyntax (Hartmann & Zimmermann, 2012), but an equally interesting research avenue is available in a cross-linguistic comparison between English and Bura w/r/t how and under what conditions projective contents emerge. Through a typological comparison between the two languages using known triggers of projective contents in English and Family of Sentence variants in the spirit of Tonhauser et al. (2013), this investigation intends to demarcate **convergences and divergences cross-linguistically in terms of Strong Contextual Felicity Constraints, projection, and Obligatory Local Effect.** 
+**Bura-Pabir (bwr)** is a Chadic language spoken by around 551,000 speakers, primarily identifying as Bura-Pabir, in Northeastern Nigeria (Eberhard et al., 2025). Bura-Pabir has traditionally been analyzed for its morphosyntax (Hartmann & Zimmermann, 2012), but an equally interesting research avenue is available in a cross-linguistic comparison between English and Bura w/r/t how and under what conditions projective contents emerge. Through a typological comparison between these two languages and Paraguayan Guaraní using frequently attested triggers of projective contents and Family of Sentence variants in the spirit of Tonhauser et al. (2013), this investigation intends to demarcate **convergences and divergences cross-linguistically in terms of Strong Contextual Felicity Constraints, projection, and Obligatory Local Effect.** 
 
 # Current Status 
 
