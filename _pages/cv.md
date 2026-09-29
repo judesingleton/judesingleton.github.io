@@ -1,6 +1,6 @@
 ---
 layout: cv
-permalink: /assets/pdf/Singleton_CV_2026.pdf
+permalink: /assets/pdf/Singleton_CV_2026-2.pdf
 title: cv
 nav: true
 nav_order: 2
