@@ -7,5 +7,5 @@ nav_order: 2
 cv_pdf: Singleton_CV_2026.pdf # you can also use external links here
 description: 
 toc:
-  sidebar: left
+sidebar: left
 ---
