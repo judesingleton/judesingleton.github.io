@@ -28,7 +28,7 @@ I am a psycholinguistics researcher at the [University of Florida](https://lin.u
 
 My research primarily moves between and interacts with three broad questions I have about language (processing): 
 
-1). **How do we store and represent linguistic information we encounter from different speakers, in specific lects, and within specific environments?** How can we *computationally* disentangle these dimensions, if they can be meaningfully discretized, when analyzing online and offline measures of cross-speaker/lect/context processing? And, how does this knowledge change over the course of the life-span and as a function of experience and exposure?
+1). **How do we store and represent linguistic information we encounter from different speakers, in specific lects, and within specific environments?** How can we *computationally* disentangle the contributions of distributional v. social information to these representations, if they can be meaningfully discretized, when analyzing online and offline measures of cross-speaker/lect/context processing? And, how does this knowledge change or adapt over the course of the life-span and as a function of (recent) experience and exposure?
 
 2). **How can we take a more rigorous and quantitative approach to measuring the amount of (ambient) linguistic exposure and experience people have?** What does measuring experience and exposure mean for different populations, especially where there is divergence about labeling oneself a speaker and problems of prestige or prejudice? How can we more effectively engage *marginalized but not marginal communities* in (psycho)linguistics research?
 
