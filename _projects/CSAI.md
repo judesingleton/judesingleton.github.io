@@ -2,7 +2,7 @@
 layout: page
 title: Predictive use of code-switches in computer-human interactions
 description: 2026- | w/ Hannah G. Treadway & Dr. Jorge Valdés Kroff
-img:assets/img/cs_ai.jpg
+img: assets/img/cs_ai.jpg
 importance: 6
 category: Current
 ---
