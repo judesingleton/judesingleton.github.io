@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Predictive use of CSes in computer-human interactions
+title: Predictive use of code-switches in computer-human interactions
 description: 2026- | w/ Hannah G. Treadway & Dr. Jorge Valdés Kroff
 img:
 importance: 6
@@ -9,12 +9,15 @@ category: Current
 
 # Abstract
 
-This is a **test** of Markdown formatting.
+Bilinguals appear to use code-switches [CSes] (e.g., *The man went down to la tienda*) to generate predictions about information content during online processing. Tomić & Valdés Kroff (2022) found that when Spanish-English bilinguals listened to frame sentences containing a CS from Spanish to English, they were more likely to fixate an upcoming low-frequency noun in a visual display. This finding, along with prior literature (Calvillo et al., 2020; Li et al., 2026; Myslín & Levy, 2015), suggests that bilinguals use CSes as a means of *expecting the unexpected*. There are two main questions immediately retrievable from this finding: firstly, why do CSes reliably precede high-surprisal, low-frequency information; and secondly, how do bilinguals come to develop this sensitivity to CSes as a predictive cue? In this project, we focus on the latter and seek to tease apart the distinct contributions, if any, of distributional and sociopragmatic knowledge to the use of CSes predictively. Specifically, we present two dueling hypotheses. Under the **Statistical Learning Hypothesis**, bilinguals draw on statistical knowledge about the co-occurrence of CSes with low-frequency items (a likely consequence of audience design and retrieval difficulties in L1/2) to generate predictions after hearing a CS. By contrast, the **Sociopragmatic Learning Hypothesis** suggests that bilinguals draw upon their intuitions of a *CSer* as someone likely to obey well-attested sociopragmatic conventions linking CSing with taboo/marked content and so come to predict unexpected information after a switch. To disentangle these two accounts, we are developing a study using eye-tracking in the VWP in which bilinguals will encounter low- or high-frequency items presented in either unilingual Spanish or CSed Spanish-to-English sentences. Critically for our hypothesis testing, some sentences will be produced by a synthetic interlocutor (a TTS agent), while others will be produced by a human speaker with whom the participant is familiarized. We reason that if the predictive utility of CSes requires judgments about the sociopragmatic knowledge of the speaker, listeners will engage in reduced and delayed predictive fixations to a low-frequency item after a switch produced by the TTS. Since a TTS is nominally less likely to be perceived as having even coarse-grained sociopragmatic knowledge, we expect to see a difference emerge across interlocutors. However, if prediction proceeds similarly across speaker types, this would suggest that distributional knowledge is the driver of this kind of prediction, with listeners inferring from a switch that a low-frequency item is highly probable irregardless of the speaker. 
 
+# Current Status 
+
+We are currently developing materials for this project. We intend to use audio files from Tomić & Valdés Kroff (2022) and have a TTS agent read these sentences. Presently, we are learning towards a synthetic voice courtesy of ElevenLabs and passed through the vocoder toolkit on Praat with 85% pitch smoothing. The result is a generally uniform and sufficiently computer-like audio that does not sacrifice fidelity or intelligibility. 
 
 # External Links
 
-
+See my [initial proposal for this project](assets/pdf/Singleton_SPN6735_Proposal.pdf), written and presented in partial completion of SPN6735: Codeswitching w/ Dr. Jorge Valdés Kroff. 
 
 # References 
 
