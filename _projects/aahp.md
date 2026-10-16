@@ -1,6 +1,6 @@
 ---
 layout: page 
-title: Reanimating African American oral histories of the Gulf South. 
+title: Reanimating African American oral histories of the Gulf South 
 description: 2024- | w/ Isabela Pizarro, Jessica Heady & Dr. Sarah Moeller 
 img: assets/img/16.jpg
 importance: 3
