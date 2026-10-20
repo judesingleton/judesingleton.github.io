@@ -18,7 +18,7 @@ We also conducted an exploratory analysis of the relation between self-reported 
 
 # Current Status
 
-Our draft manuscript has been editorially accepted to *Language, Cognition, and Neuroscience* -- we now await peer review responses! 
+We have submitted our revised manuscript for review to *Language, Cognition, and Neuroscience* -- we now await further news! 
 
 # External Links
 
