@@ -1,11 +1,12 @@
+
 ---
 layout: cv
-permalink: assets/pdf/Singleton_CV.pdf
+permalink: /assets/pdf/Singleton_CV.pdf
 title: cv
 nav: true
 nav_order: 2
 cv_pdf: Singleton_CV.pdf # you can also use external links here
-description: 
+description:
 toc:
-sidebar: left
+  sidebar: left
 ---
