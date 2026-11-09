@@ -1,4 +1,3 @@
-
 ---
 layout: cv
 permalink: /assets/pdf/Singleton_CV.pdf
